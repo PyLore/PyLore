@@ -14,6 +14,7 @@ lore@github
     Alias  :  Lore
 Languages  :  Python
   Discord  :  800050396365717525
+  
 ```
 
 <p align="left">
