@@ -17,8 +17,9 @@ lore@github
        WM  :  Openbox
     Shell  :  Bash
  Terminal  :  Alacritty
-      CPU  :  Ryzen
+      CPU  :  Ryzen 5
     Alias  :  Lore
+     Orgs  :  NeonNetworks
 Languages  :  Python
   Discord  :  800050396365717525
   
