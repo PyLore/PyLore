@@ -7,7 +7,7 @@
 ```
 <img align="left" src="https://i.pinimg.com/originals/96/a0/fc/96a0fce84427fedab035cc02f68332a3.jpg" alt="logo.png" width="200" />
 
-```py
+```bash
 
 
 lore@github
