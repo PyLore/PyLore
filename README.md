@@ -1,6 +1,6 @@
 
 
-```py
+```bash
 
 > neofetch
 
