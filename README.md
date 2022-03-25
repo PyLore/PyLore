@@ -6,8 +6,8 @@
 
 ```py
   Skillset : Python | Batch
-  Discord : 800050396365717525
-  Hobbies : [
+  Discord  : 800050396365717525
+  Hobbies  : [
    Application Development,      Utility Development,
    Command-Line Applications,    Application Interfaces,
    Web(Exploitation, Crawling, Frameworks)
