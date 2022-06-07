@@ -11,5 +11,5 @@
    Application Development,      Utility Development,
    Command-Line Applications,    Application Interfaces,
    Web(Exploitation, Crawling, Frameworks)
-   ]
+  ]
 ```
